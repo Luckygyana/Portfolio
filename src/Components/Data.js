@@ -1,10 +1,10 @@
-import image1 from "../images/portfolio/image1.jpg";
-import image2 from "../images/portfolio/image2.jpg";
-import image3 from "../images/portfolio/image3.jpg";
-import image4 from "../images/portfolio/image4.jpg";
-import image5 from "../images/portfolio/image5.jpg";
-import image6 from "../images/portfolio/image6.jpg";
-import image7 from "../images/portfolio/image7.jpg";
+import image1 from "../images/portfolio/image1.jpeg";
+import image2 from "../images/portfolio/image2.jpeg";
+import image3 from "../images/portfolio/image3.jpeg";
+import image4 from "../images/portfolio/image4.jpeg";
+import image5 from "../images/portfolio/image5.jpeg";
+import image6 from "../images/portfolio/image6.jpeg";
+import image7 from "../images/portfolio/image7.jpeg";
 
 export const DATA = Object.freeze({
   main: {
@@ -17,10 +17,10 @@ export const DATA = Object.freeze({
     contactmessage1: "Want to get in touch ?",
     contactmessage2:
       "I would love to hear from you !! Please use this form to reach me.",
-    email: "youremailhere@gmail.com",
+    email: "gyanendralucky9337@gmail.com",
     phone: "+91-9178158633",
-    github: "https://github.com/nordicgiant2/react-nice-resume",
-    project: "https://github.com/nordicgiant2/react-nice-resume",
+    github: "https://github.com/Luckygyana",
+    project: "https://github.com/Luckygyana/Portfolio",
     address: {
       street: "(Nilagiri)",
       city: "(Balesore)",
